@@ -30,15 +30,15 @@
    Recargo por cónyuge según edad del mismo. (si lo tiene)
    Recargo por cantidad de hijos (si los tuviese)
 6. Almacena todos los recargos y al final le muestra al asegurado:
-   Nombre cliente/asegurado
-   Detalle cotización
-   Precio base
-   Recargos
-   Edad del asegurado
-   Casado/a edad del conyuge (en caso de estar soltero, el recargo será Q0)
-   Cantidad de hijos (en caso de no tener hijos, el recargo será Q0)
-   Total recargos
-   Precio total de la cotización
+   - Nombre cliente/asegurado
+   - Detalle cotización
+   - Precio base
+   - Recargos
+   - Edad del asegurado
+   - Casado/a edad del conyuge (en caso de estar soltero, el recargo será Q0)
+   - Cantidad de hijos (en caso de no tener hijos, el recargo será Q0)
+   - Total recargos
+   - Precio total de la cotización
 
 
 > ### Partes del problema a considerar
