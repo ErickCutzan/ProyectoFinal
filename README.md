@@ -26,9 +26,9 @@
    los recargos según las respuestas dadas en base a los parámetros
    asignados para la edad y cantidad de hijos y estos los aplicará a
    a la cotización. Estos son los recargos:
-   Recargo por edad
-   Recargo por cónyuge según edad del mismo. (si lo tiene)
-   Recargo por cantidad de hijos (si los tuviese)
+   - Recargo por edad
+   - Recargo por cónyuge según edad del mismo. (si lo tiene)
+   - Recargo por cantidad de hijos (si los tuviese)
 6. Almacena todos los recargos y al final le muestra al asegurado:
    - Nombre cliente/asegurado
    - Detalle cotización
