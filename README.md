@@ -36,7 +36,7 @@
    Recargos
    Edad del asegurado
    Casado/a edad del conyuge (en caso de estar soltero, el recargo será Q0)
-   Cantidad de hijos (en caso de no tener hijos, el recargo será Q0)
+   Cantidad de hijos (en caso de no tener hijos, el recargo será (Q0)
    Total recargos
    Precio total de la cotización
 
