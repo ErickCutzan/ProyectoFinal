@@ -1,19 +1,19 @@
-Funcionamiento del programa
+> ### Funcionamiento del programa
 
 1. Al iniciar el programa este pide al asegurado su nombre y este
    lo ingresa en un espacio asignado para el mismo.
 
 2. A continuación le pide al asegurado que ingrese su edad.
 
-2.1 Dependiendo de la edad del asegurado, si este es menor de edad
-  el programa se detiene, si es mayor de edad el programa continúa.
+   2.1 Dependiendo de la edad del asegurado, si este es menor de edad
+       el programa se detiene, si es mayor de edad el programa continúa.
 
 3. Luego se le pregunta al asegurado si está casado. En el espacio
    en blanco asignado se encuentra un “si/no” con el propósito de
    orientar al asegurado del tipo de respuesta requerida.
 
-3.1 En caso de ser afirmativo se le pregunta al asegurado la edad del
-    cónyuge, en caso contrario el programa salta a la siguiente pregunta.
+   3.1 En caso de ser afirmativo se le pregunta al asegurado la edad del
+       cónyuge, en caso contrario el programa salta a la siguiente pregunta.
 
 4. Luego se le pregunta al asegurado si tiene hijos. En el espacio en
    blanco asignado se encuentra un “si/no” con el propósito de orientar
@@ -41,9 +41,9 @@ Funcionamiento del programa
    Precio total de la cotización
 
 
-Partes del problema a considerar
+> ### Partes del problema a considerar
 
-Recargos
+> #### Recargos
 1. Edad del asegurado titular
    De 18 a 24 se hace un recargo del 10% del precio base(Q2,000)
    De 25 a 49 se hace un recargo del 20% del precio base(Q2,000)
@@ -62,8 +62,8 @@ Recargos
    cotización del asegurado titular.
 
 
-Que se podría mejorar sobre el programa
+> ### Que se podría mejorar sobre el programa
 
-Mejorar la interfaz grafica utilizando un formulario para llenarlo
-con mayor detalle y rapidez.
-Agregar una opción para enviar cotización por correo electrónico
+- Mejorar la interfaz grafica utilizando un formulario para llenarlo
+  con mayor detalle y rapidez.
+- Agregar una opción para enviar cotización por correo electrónico
