@@ -1,0 +1,31 @@
+Problema:
+
+La empresa aseguradora en cuestión solamente toma en consideración a 
+personas mayores de edad (18+) para asegurarlas.
+Se tiene un plan base (Q2,000) al que se le aplican recargos extra, 
+siendo estas las condiciones del asegurado que las generan:
+
+1. Edad del asegurado titular
+2. Si está casado/a o no y dependiendo de la edad del cónyuge 
+   del asegurado titular
+3. Cantidad de hijos del asegurado titular
+
+Parámetros que cambian los recargos extra y por ende el valor total 
+de la cotización del asegurado titular:
+
+1. Edad del asegurado titular
+   De 18 a 24 se hace un recargo del 10% del precio base(Q2,000)
+   De 25 a 49 se hace un recargo del 20% del precio base(Q2,000)
+   De 50 años ó mas se hace un recargo del 30% del precio base(Q2,000)
+2. Si está casado/a o no y dependiendo de la edad del cónyuge del 
+   asegurado titular
+   Se aplica para el cónyuge del asegurado (sí lo tuviera) los mismos 
+   rangos de edades que para el asegurado y este genera un recargo 
+   que se agrega a la cotización del asegurado titular.
+3. Cantidad de hijos del asegurado titular
+   Se agrega un recargo por cada hijo que quiera asegurar el asegurado titular. 
+   (20% del precio base por cada hijo)
+4. El único recargo extra obligatorio será por la edad del asegurado titular (inciso 1)
+   Ya que puede estar soltero/a con/sin hijos ó casado/a con/sin hijos.
+5. Todos los recargos anteriores son acumulativos e irán cargados en la 
+   cotización del asegurado titular.
