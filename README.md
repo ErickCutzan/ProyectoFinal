@@ -6,21 +6,21 @@
 2. A continuación le pide al asegurado que ingrese su edad.
 
    2.1 Dependiendo de la edad del asegurado, si este es menor de edad
-       el programa se detiene, si es mayor de edad el programa continúa.
+         el programa se detiene, si es mayor de edad el programa continúa.
 
 3. Luego se le pregunta al asegurado si está casado. En el espacio
    en blanco asignado se encuentra un “si/no” con el propósito de
    orientar al asegurado del tipo de respuesta requerida.
 
    3.1 En caso de ser afirmativo se le pregunta al asegurado la edad del
-       cónyuge, en caso contrario el programa salta a la siguiente pregunta.
+         cónyuge, en caso contrario el programa salta a la siguiente pregunta.
 
 4. Luego se le pregunta al asegurado si tiene hijos. En el espacio en
    blanco asignado se encuentra un “si/no” con el propósito de orientar
    al asegurado del tipo de respuesta requerida.
 
-4.1 En caso de ser afirmativo se le pregunta al asegurado cuántos hijos
-    tiene, en caso contrario el programa salta a la siguiente pregunta.
+   4.1 En caso de ser afirmativo se le pregunta al asegurado cuántos hijos
+         tiene, en caso contrario el programa salta a la siguiente pregunta.
 
 5. Luego de esta serie de preguntas el programa empieza a calcular todos
    los recargos según las respuestas dadas en base a los parámetros
