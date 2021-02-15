@@ -20,7 +20,7 @@
    al asegurado del tipo de respuesta requerida.
 
    4.1 En caso de ser afirmativo se le pregunta al asegurado cuántos hijos
-         tiene, en caso contrario el programa salta a la siguiente pregunta.
+         tiene, en caso contrario el programa salta al siguiente paso.
 
 5. Luego de esta serie de preguntas el programa empieza a calcular todos
    los recargos según las respuestas dadas en base a los parámetros
